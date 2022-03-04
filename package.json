@@ -27,7 +27,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://chrisle206.github.io",
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",
