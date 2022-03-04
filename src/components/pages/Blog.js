@@ -8,9 +8,11 @@ export default function Blog() {
                 <div>
                 <section><h3>Project1: Anime Search Engine</h3>
                 <a href="https://github.com/UWHuskie/Project-AnimeSE">Github-repo: Project-AnimeSE</a>
+                <br></br>
                 <a href="https://uwhuskie.github.io/Project-AnimeSE/">Website: Project-AnimeSE/</a></section>
                 <section><h3>Project2: Ponder Social Media Platform</h3>
                     <a href="https://github.com/Chrisle206/ponder">Github-repo: Ponder</a>
+                    <br></br>
                     <a href="https://pacific-ravine-12135.herokuapp.com/">Website: Ponder</a></section>
                 </div>
                 <div class="g-col-6 p-2">
