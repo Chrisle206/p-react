@@ -27,6 +27,14 @@ background-color: skyblue;
 .card {
     width: fit-content;
 }
+
+#work {
+    justify-content: space-evenly;
+}
 h2 {
     font-size: 50px;
+}
+
+.hover:hover {
+    transform: scale(1.2);
 }
