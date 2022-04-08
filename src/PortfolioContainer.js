@@ -17,11 +17,7 @@ export default function PortfolioContainer() {
               <img src={profile} alt="profile_picture" id='profile' />
               <div className='block'>
                 <h2>About Me</h2>
-                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio ea qui assumenda quis cupiditate
-                  quasi facilis doloremque voluptatibus expedita sed voluptatem quo labore, fuga ex dolorum ab
-                  magni! Maxime, culpa! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta vitae quia
-                  et sunt sapiente consectetur veritatis numquam harum in porro exercitationem, pariatur cum fuga
-                  laudantium esse? Impedit totam earum ad.</p>
+                <p> Hi I am Christopher Le, a full-stack web developer who loves problem solving with creative solutions, writing efficient code, and working with others. I look at life and see code all around and enjoy constantly learning as new technologies develop.</p>
               </div>
             </div>
             <div className='contact'>
