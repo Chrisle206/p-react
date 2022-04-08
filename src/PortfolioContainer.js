@@ -26,7 +26,7 @@ export default function PortfolioContainer() {
             </div>
             <div className='contact'>
               <a href="https://github.com/Chrisle206" target="blank" rel="noreferrer"><i className="bi-github" role="img" aria-label="GitHub"> Github</i></a>
-              <a href="www.linkedin.com/in/christopher-le-206" target="blank" rel="noreferrer"><i
+              <a href="https://www.linkedin.com/in/christopher-le-206/" target="blank" rel="noreferrer"><i
                 className="bi bi-linkedin"> Linkedin</i></a>
               <a href="mailto:chrisle808@yahoo.com" rel="noreferrer"><i className="bi bi-inbox"> Email</i></a>
               <a href="https://resume.io/r/7LnehjX6K" target="blank" rel="noreferrer"><i
